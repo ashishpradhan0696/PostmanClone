@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+}   
+
+nav{
+    color: white;
+   background-color:rgb(247, 112, 9);
+}
+
+.navbar-brand, .nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    pointer-events: none;
+}
+
+
+
+.container{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    padding: 1em;
+    margin: 1em;
+}
+
+.postmanContainer{
+    display: grid;
+    grid-template-columns: 20% 80% 20%; 
+ 
+}
+
+.urlField >input{
+    width:705px;
+}
+
+.responseBox {
+    display: grid;
+    grid-template-columns: 28% 80%;
+    position: relative;
+    left: 255px;
+
+}
+
+.responseText{
+    width: 705px;
+    height: 350px;
+    position: relative;
+    right: 255px;
+    background-color: rgb(36, 34, 34);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(137, 137, 113);
+}
+
+.jsonText{
+    width: 300px;
+    height: 100px;
+}
+
+
+.additionalParameter{
+    color:rgb(227, 219, 219) ;
+    background-color: rgb(247, 112, 9);
+    border: none;
+    height: 45%
+}
+
+.copyButton{
+    font-size: 11px;
+    height: 20px;
+    width: 45px;
+}
+
