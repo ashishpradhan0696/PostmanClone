@@ -44,5 +44,6 @@ b. Using custom parameter
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)  
+View _LICENSE.md_ for more information.
 
