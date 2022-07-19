@@ -19,8 +19,9 @@ An API client for using APIs.
 
 ## Getting Started
 
- 1. Get a free API key
- 2. Clone the repo 
+ 1. Get a free API key from any of the sites 
+    Ex: https://reqres.in/ , https://fakestoreapi.com/
+ 2. Clone the repo into your enviroment
  ```bash
   git clone https://github.com/ashishpradhan0696/PostmanClone.git
 ```
